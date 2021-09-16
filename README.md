@@ -7,12 +7,12 @@ DESCRIPTION : This projected is realated to android devlopment . In this app we 
              information about that product . we are adding different sectors on app like medicines of plant current prices of agro product
              nuresery , agricultural stuffs ..
              
-GROUP MEMBER : Sanket Hake
-               Atharv Yesansure
+GROUP MEMBER : 1)Sanket Hake
+                2)Atharv Yesansure
 
-MENTORS      : Abhay 
-               Shivam Pawar
-               Sudhanshu
+MENTORS      : 1)Abhay 
+                2)Shivam Pawar
+                 3)Sudhanshu
            
              
                
